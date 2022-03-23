@@ -1,4 +1,26 @@
 hola...
+<<<<<<< HEAD
 hola muchachos, hice un cambio.
 
 
+=======
+<<<<<<< HEAD
+hola muchachos, hice un cambio. 
+Hola! Laura Caicedo
+=======
+hola muchachos, hice un cambio.
+<<<<<<< HEAD
+Hola, intento de cambio 1.
+
+=======
+<<<<<<< HEAD
+Prueba
+=======
+Hola, intento de cambio 1.
+>>>>>>> 6ab013635fe090a01edd75b890e39ed7ce83efb1
+>>>>>>> 8e7598d82949667a804ebe4ff1ae49704689cb07
+>>>>>>> ab3d6245dd4aeb3e6f3096f0fc28dd9a3992d319
+------------------------------
+Hola, Vannesa Cifuentes hizó un cambio.
+Hola soy estefania 
+>>>>>>> 41d2d8db31e01d37ee01b0dd368ddcc3d421a699
