@@ -31,6 +31,11 @@ Hola, Vannesa Cifuentes hizó un cambio.
 Hola soy estefania 
 >>>>>>> 41d2d8db31e01d37ee01b0dd368ddcc3d421a699
 >>>>>>> e913bfc748890c7b3c0ea8540d5c209a14854931
+<<<<<<< HEAD
 
 
 saludes desde cali
+=======
+----------------------------------------------
+Saludos Oscar Vasquez
+>>>>>>> 938f537f8832d64fb14ef0b626cbe021ac6e0397
