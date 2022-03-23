@@ -1,3 +1,7 @@
 hola...
 hola muchachos, hice un cambio.
+<<<<<<< HEAD
 Prueba
+=======
+Hola, intento de cambio 1.
+>>>>>>> 6ab013635fe090a01edd75b890e39ed7ce83efb1
